@@ -16,7 +16,7 @@ For any questions, cooperation proposals or just to connect, contact me through 
 
 Connect with me on:
 - GitHub: [Your GitHub Profile Link](https://github.com/AliSamavi)
-- LinkedIn: [Your LinkedIn Profile Link](https://linkedin.com/in/yourusername)
+- LinkedIn: [Your LinkedIn Profile Link](https://linkedin.com/in/ali-samavi-711303288)
 - Email: alisamav1213@gmail.com
 
 Looking forward to exciting collaborations and learning experiences!
