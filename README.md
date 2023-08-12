@@ -12,7 +12,7 @@ I am actively seeking opportunities to collaborate with like-minded individuals 
 
 ## Contact
 
-Feel free to reach out to me through my GitHub bio for any inquiries, collaboration proposals, or just to connect. I'm always excited to engage with fellow developers and enthusiasts, so don't hesitate to drop me a message. Let's learn, grow, and innovate together!
+For any questions, cooperation proposals or just to connect, contact me through the following platforms. I'm always eager to interact with developers and enthusiasts, so don't hesitate to send me a message. Let's learn, grow and innovate together!
 
 Connect with me on:
 - GitHub: [Your GitHub Profile Link](https://github.com/AliSamavi)
