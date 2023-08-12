@@ -15,8 +15,8 @@ I am actively seeking opportunities to collaborate with like-minded individuals 
 For any questions, cooperation proposals or just to connect, contact me through the following platforms. I'm always eager to interact with developers and enthusiasts, so don't hesitate to send me a message. Let's learn, grow and innovate together!
 
 Connect with me on:
-- GitHub: [Your GitHub Profile Link](https://github.com/AliSamavi)
-- LinkedIn: [Your LinkedIn Profile Link](https://linkedin.com/in/ali-samavi-711303288)
+- GitHub: [GitHub Profile](https://github.com/AliSamavi)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/ali-samavi-711303288)
 - Email: alisamav1213@gmail.com
 
 Looking forward to exciting collaborations and learning experiences!
